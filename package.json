@@ -1,0 +1,22 @@
+{
+  "name": "modern_js_explained",
+  "version": "1.0.0",
+  "description": "[check here](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dottharun/modern_js_explained.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dottharun/modern_js_explained/issues"
+  },
+  "homepage": "https://github.com/dottharun/modern_js_explained#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
