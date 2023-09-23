@@ -1,7 +1,8 @@
-var moment = require("moment");
+import moment from "moment";
 
-// index.js
 console.log("Hello from JavaScript!");
-
-//since moment.min .js is loaded before in HTML i can use moment in js now
 console.log(moment().startOf("day").fromNow());
+
+const name = "Bob",
+  time = "today";
+console.log(`Hello ${name}, how are you ${time}?`);
