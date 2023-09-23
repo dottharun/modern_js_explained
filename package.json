@@ -18,5 +18,9 @@
   "homepage": "https://github.com/dottharun/modern_js_explained#readme",
   "dependencies": {
     "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
   }
 }

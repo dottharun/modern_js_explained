@@ -1,3 +1,5 @@
+var moment = require("moment");
+
 // index.js
 console.log("Hello from JavaScript!");
 
