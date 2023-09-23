@@ -4,7 +4,9 @@
   "description": "[check here](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --progress --mode=production",
+    "watch": "webpack --progress --watch"
   },
   "repository": {
     "type": "git",
